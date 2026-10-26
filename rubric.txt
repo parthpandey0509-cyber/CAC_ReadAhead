@@ -1,0 +1,121 @@
+Content Rating Rubric
+
+You will rate the provided text on five independent genres: Profanity, Romantic/Explicit Content, Dark/Heavy Themes, Violence/Scariness, and Alcohol/Substance Use. Each genre gets an integer score from 1 to 10.
+- 1 means the genre is entirely absent from the text.
+- 10 means the most extreme content possible in that genre.
+The scale measures intensity only. It is not tied to any age group or audience.
+
+## GENERAL SCORING PROCEDURE (apply to every genre)
+
+1. Score each genre independently. A high score in one genre must not raise or lower another.
+2. Find the single most intense instance of the genre in the text. Pick the HIGHEST anchor level whose description that instance fully meets. If it falls between two levels, choose the lower one unless every element of the higher one is present.
+3. Frequency adjustment: if content at or within one level of the peak appears throughout the text (pervasive, not isolated), add 1. Judge frequency relative to the text's length. Never exceed 10.
+4. Framing adjustment: if the text clearly condemns, warns against, or treats the content educationally, you may subtract at most 1. If the text glorifies, rewards, or encourages it, you may add at most 1. Framing can never move a score below 2 when the content is present.
+5. Any genuine presence of a genre scores at least 2. Score 1 only when the genre is truly absent.
+6. Count everything on the page: narration, dialogue, quoted speech, song lyrics, reported events, and content in other languages. Do not infer content that is not stated or clearly implied.
+7. Implied or off-page content (e.g., a fade-to-black, a censored word like "f***", an event referenced after the fact) is scored at the level of what is clearly implied, minus 1, unless the anchors below place it explicitly.
+8. Base the score on what the text contains, not the topic it is about. A text discussing addiction statistics with no depiction of use is scored lower than a scene showing use.
+
+## GENRE BOUNDARIES (to prevent double-counting or gaps)
+
+- Sexual violence: score in BOTH Romantic/Explicit (by explicitness of sexual detail) and Violence/Scariness (by severity of harm).
+- Suicide and self-harm: score in Dark/Heavy Themes. Also score in Violence/Scariness only if the physical act or injury is described.
+- Death: the emotional weight (grief, loss, mourning) goes in Dark/Heavy Themes. The physical act of killing or injury goes in Violence/Scariness.
+- Addiction: the substance use itself goes in Alcohol/Substance Use. The psychological and life damage it causes goes in Dark/Heavy Themes.
+- Crude sexual language used as profanity (e.g., sexual insults) goes in Profanity. It goes in Romantic/Explicit only when it describes an actual sexual act or scenario.
+- Slurs and hateful epithets go in Profanity.
+
+---
+
+## SECTION 1: PROFANITY
+
+Covers: swear words, curses, vulgar or crude language, sexual and scatological insults, slurs, and obscene gestures described in words.
+
+1 — No profanity or crude language of any kind.
+2 — Only euphemisms or minced oaths ("darn," "heck," "gosh," "jeez," "freaking"), or mild rude words ("stupid," "shut up," "butt").
+3 — One or two instances of mild profanity ("damn," "hell," "crap," "God" as an exclamation).
+4 — Several instances of mild profanity, or one or two mildly crude terms ("piss," "screw you").
+5 — Occasional moderate profanity ("ass," "shit," "bitch," "bastard," "dick" as insult).
+6 — Frequent moderate profanity, OR a single use of the strongest profanity (the f-word and its variants).
+7 — Several uses of the strongest profanity, or strong profanity combined with crude sexual or scatological language.
+8 — Frequent use of the strongest profanity throughout, or a single use of a slur or the most offensive terms (e.g., "c***").
+9 — Pervasive strong profanity that dominates the language of the text, or multiple slurs, or graphic sexual insults.
+10 — Extreme, relentless profanity, or slurs and hateful epithets used repeatedly to demean a group.
+
+---
+
+## SECTION 2: ROMANTIC / EXPLICIT CONTENT
+
+Covers: romance, attraction, physical affection, sexual innuendo, nudity, sexual activity, and sexual description.
+
+1 — No romantic or sexual content.
+2 — Mild romantic interest only: crushes, dating mentioned, hand-holding, hugging, a quick peck.
+3 — Brief kissing, flirting, or mild romantic tension described without physical detail.
+4 — Passionate or prolonged kissing, clear physical attraction, or mild sexual innuendo or jokes.
+5 — Sexual activity referenced but not shown (e.g., "they spent the night together"), repeated innuendo, or brief non-sexual nudity.
+6 — Sensual scene with physical description short of sex (e.g., undressing, caressing) that fades out, or sexualized description of bodies.
+7 — A sex scene is described, but without anatomical or graphic detail; or nudity in a sexual context.
+8 — Explicit sexual content with moderate detail of sexual acts or anatomy.
+9 — Graphic, detailed sexual content, or multiple explicit scenes.
+10 — Pervasive, highly graphic, pornographic content, or extreme sexual content. Any sexualized content involving a minor scores 10 automatically.
+
+---
+
+## SECTION 3: DARK / HEAVY THEMES
+
+Covers: emotionally or psychologically heavy subject matter, including death, grief, illness, mental illness, abuse, trauma, suicide, self-harm, war and atrocity, discrimination, poverty, despair, and moral bleakness. Score by how central, how detailed, and how emotionally intense the material is.
+
+1 — No heavy or dark themes.
+2 — Mild sadness, disappointment, minor conflict, or ordinary hardship.
+3 — A loss or difficult situation mentioned briefly (a distant relative's death, a pet dying, parents divorcing) without dwelling on it.
+4 — A meaningful death, serious illness, bullying, or family conflict depicted with some emotional weight but not explored deeply.
+5 — Sustained grief, mental illness, discrimination, war, or trauma as a significant part of the text.
+6 — Serious themes explored in depth (e.g., abuse referenced, suicide or self-harm mentioned, the toll of addiction), with clear emotional intensity.
+7 — Abuse, suicide, self-harm, or severe trauma treated directly and centrally, with discussion of thoughts, feelings, or aftermath.
+8 — Detailed depiction of abuse, suicidal ideation, self-harm, or atrocity, with strong emotional distress and little relief.
+9 — Harrowing and sustained: detailed suicide or self-harm, abuse, or atrocity, with a bleak or hopeless tone throughout.
+10 — Extreme and unrelenting despair or trauma, OR content that glorifies, encourages, or gives method details for suicide or self-harm.
+
+---
+
+## SECTION 4: VIOLENCE / SCARINESS
+
+Covers: physical violence, injury, weapons, death by violence, gore, peril, threat, suspense, fear, horror, and disturbing imagery. Score whichever is higher: the violence or the scariness.
+
+1 — No violence, peril, or frightening content.
+2 — Slapstick or comedic harm, very mild peril, or a lightly spooky mood.
+3 — Cartoonish or non-injurious fighting, brief suspense, or a mild scare quickly resolved.
+4 — Realistic fighting without serious injury, injury mentioned without detail, sustained peril, or a creepy atmosphere.
+5 — Weapons used, injuries described briefly, credible threats, or sustained tension with menacing figures or monsters.
+6 — Violent death occurs without graphic detail, or intense fear and danger dominate a scene.
+7 — Killing depicted on the page, bloody injuries described, or disturbing horror imagery.
+8 — Graphic violence with clear injury detail, references to torture, gore, or intense, sustained horror.
+9 — Detailed gore, torture, or sadistic violence, or extremely disturbing horror content.
+10 — Extreme, prolonged, highly graphic violence or gore; mass violence in detail; or violence presented as gratifying or glorified.
+
+---
+
+## SECTION 5: ALCOHOL / SUBSTANCE USE
+
+Covers: alcohol, tobacco and vaping, cannabis, illegal drugs, misuse of prescription or over-the-counter drugs, intoxication, addiction, and overdose.
+
+1 — No references to alcohol, tobacco, or drugs. (Ordinary medical use of medicine as prescribed does not count.)
+2 — Passing mention of alcohol, tobacco, or drugs with no use depicted (e.g., a bar in the background, a wine bottle on a table).
+3 — Adults drinking moderately or socially, or tobacco use mentioned or shown briefly.
+4 — Drinking or smoking shown as part of a scene, mild intoxication, or illegal drugs referenced without use.
+5 — Clear drunkenness, cannabis use, or illegal drug use described briefly or referenced as having happened.
+6 — Illegal drug use depicted, binge drinking, underage drinking, or prescription drug misuse.
+7 — Hard drug use (e.g., heroin, cocaine, methamphetamine) depicted, addiction shown, or overdose referenced.
+8 — Detailed depiction of drug use or heavy intoxication, or substance use presented as appealing.
+9 — Graphic depiction of hard drug use (e.g., injection) or overdose, or pervasive heavy use throughout the text.
+10 — Substance use glorified and pervasive, OR instructions for making, obtaining, or using drugs.
+
+---
+
+## FINAL CHECK BEFORE SCORING
+
+For each genre, confirm:
+- The score is an integer from 1 to 10.
+- A score of 1 means you found no instance of the genre at all.
+- The score reflects the peak instance, adjusted by at most +1 for frequency and at most ±1 for framing.
+- You scored the genre on its own, following the genre boundaries above.

@@ -1,0 +1,23 @@
+# Secrets / environment variables
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Local database
+BookScanner.db
+*.db
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store

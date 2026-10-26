@@ -1,0 +1,21 @@
+[theme]
+base = "light"
+primaryColor = "#6C5CE7"
+backgroundColor = "#FAFAFC"
+secondaryBackgroundColor = "#F1F0F7"
+textColor = "#1E1E2E"
+borderColor = "#E4E2EE"
+showWidgetBorder = true
+baseRadius = "0.6rem"
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+headingFont = "Source Serif 4:https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@600;700&display=swap"
+dataframeHeaderBackgroundColor = "#F1F0F7"
+# One color per genre, in the order the charts use: Profanity, Romantic, Dark, Violence, Alcohol
+chartCategoricalColors = ["#6C5CE7", "#E84393", "#475569", "#D63031", "#E1A200"]
+
+[theme.sidebar]
+backgroundColor = "#1F1B3A"
+secondaryBackgroundColor = "#2B2650"
+textColor = "#E9E7F5"
+primaryColor = "#A29BFE"
+borderColor = "#3A3466"
